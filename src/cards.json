@@ -18,7 +18,7 @@
         },
         {
             "text": "Best thing you did |for someone| else this year.",
-            "icon": ""
+            "icon": ""
         },
         {
             "text": "Best |movie| of the year.",
@@ -34,15 +34,15 @@
         },
         {
             "text": "|Day| this past year you'd live over and over.",
-            "icon": ""
+            "icon": ""
         },
         {
             "text": "Biggest |lesson| learned this year.",
-            "icon": ""
+            "icon": ""
         },
         {
             "text": "Most memorable |moment in pop| culture.",
-            "icon": ""
+            "icon": ""
         },
         {
             "text": "Best |meme| of the year.",
@@ -57,8 +57,108 @@
             "icon": ""
         },
         {
-            "text": "Best piece of |food| you had this year.",
-            "icon": ""
+            "text": "Best piece of |food| you had this year?",
+            "icon": ""
+        },
+        {
+            "text": "Best |place| you visited this decade?",
+            "icon": ""
+        },
+        {
+            "text": "What do you |look forward| to next year?",
+            "icon": ""
+        },
+        {
+            "text": "Best |meme| of the decade?",
+            "icon": ""
+        },
+        {
+            "text": "Worst |meme| of the decade?",
+            "icon": ""
+        },
+        {
+            "text": "Something you |won't do| next year?",
+            "icon": ""
+        },
+        {
+            "text": "Best |”Ok boomer”| moment of the year?",
+            "icon": ""
+        },
+        {
+            "text": "Queue a |song| on spotify.",
+            "icon": ""
+        },
+        {
+            "text": "First thing you |will do| next year?",
+            "icon": ""
+        },
+        {
+            "text": "What is your |plan| for tomorrow?",
+            "icon": ""
+        },
+        {
+            "text": "What will be your |first meal| of 2020?",
+            "icon": ""
+        },
+        {
+            "text": "Best new years |memory app| of 2019?",
+            "icon": ""
+        },
+        {
+            "text": "What's the |worst| app idea?",
+            "icon": ""
+        },
+        {
+            "text": "Your most |terrible| commit message this year?",
+            "icon": ""
+        },
+        {
+            "text": "What is the |worst| topping on a pizza?",
+            "icon": ""
+        },
+        {
+            "text": "Which is the |best| sub-reddit?",
+            "icon": ""
+        },
+        {
+            "text": "Best safe, native, |c++ replacement| of the year?",
+            "icon": ""
+        },
+        {
+            "text": "Best |drink| of the evening?",
+            "icon": ""
+        },
+        {
+            "text": "Best new year's eve |party| of the year?",
+            "icon": ""
+        },
+        {
+            "text": "Best |dnd| character death of the decade?",
+            "icon": ""
+        },
+        {
+            "text": "Best |chair| in this room?",
+            "icon": ""
+        },
+        {
+            "text": "Best |thing| that sparkles?",
+            "icon": ""
+        },
+        {
+            "text": "Who |looks| the most comfortable?",
+            "icon": ""
+        },
+        {
+            "text": "Best Elon |Musk| meme/moment of the decade?",
+            "icon": ""
+        },
+        {
+            "text": "Best |job| opportunity of next year?",
+            "icon": ""
+        },
+        {
+            "text": "Best |new year's| eve's resolution?",
+            "icon": ""
         }
     ]
 }
