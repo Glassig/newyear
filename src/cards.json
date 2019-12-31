@@ -1,0 +1,64 @@
+{
+    "cards": [
+        {
+            "text": "Best |conversation| you had this year.",
+            "icon": ""
+        },
+        {
+            "text": "Best |piece of advice| you got this year.",
+            "icon": ""
+        },
+        {
+            "text": "Best |moment| of the year.",
+            "icon": ""
+        },
+        {
+            "text": "Hardest you |laughed| this year.",
+            "icon": ""
+        },
+        {
+            "text": "Best thing you did |for someone| else this year.",
+            "icon": ""
+        },
+        {
+            "text": "Best |movie| of the year.",
+            "icon": ""
+        },
+        {
+            "text": "Best |game| of the year.",
+            "icon": ""
+        },
+        {
+            "text": "Favourite |song| of the year.",
+            "icon": ""
+        },
+        {
+            "text": "|Day| this past year you'd live over and over.",
+            "icon": ""
+        },
+        {
+            "text": "Biggest |lesson| learned this year.",
+            "icon": ""
+        },
+        {
+            "text": "Most memorable |moment in pop| culture.",
+            "icon": ""
+        },
+        {
+            "text": "Best |meme| of the year.",
+            "icon": ""
+        },
+        {
+            "text": "Most |newsworthy| event of the year.",
+            "icon": ""
+        },
+        {
+            "text": "Most |embarrassing| moment of the year.",
+            "icon": ""
+        },
+        {
+            "text": "Best piece of |food| you had this year.",
+            "icon": ""
+        }
+    ]
+}
