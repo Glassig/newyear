@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.2183c070.chunk.css",
-    "main.js": "/static/js/main.05199a35.chunk.js",
-    "main.js.map": "/static/js/main.05199a35.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.1d31dff7.js",
-    "runtime-main.js.map": "/static/js/runtime-main.1d31dff7.js.map",
-    "static/js/2.5765fe9b.chunk.js": "/static/js/2.5765fe9b.chunk.js",
-    "static/js/2.5765fe9b.chunk.js.map": "/static/js/2.5765fe9b.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.69972dd7aad57d266cbd6d35e6a698b9.js": "/precache-manifest.69972dd7aad57d266cbd6d35e6a698b9.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.2183c070.chunk.css.map": "/static/css/main.2183c070.chunk.css.map",
-    "static/js/2.5765fe9b.chunk.js.LICENSE": "/static/js/2.5765fe9b.chunk.js.LICENSE",
-    "static/media/Button.svg": "/static/media/Button.3469563f.svg",
-    "static/media/Logo.svg": "/static/media/Logo.b11d98f5.svg",
-    "static/media/index.css": "/static/media/fa-regular-400.9efb8697.woff2"
+    "main.css": "/newyear/static/css/main.63ab1672.chunk.css",
+    "main.js": "/newyear/static/js/main.05199a35.chunk.js",
+    "main.js.map": "/newyear/static/js/main.05199a35.chunk.js.map",
+    "runtime-main.js": "/newyear/static/js/runtime-main.066d80aa.js",
+    "runtime-main.js.map": "/newyear/static/js/runtime-main.066d80aa.js.map",
+    "static/js/2.5765fe9b.chunk.js": "/newyear/static/js/2.5765fe9b.chunk.js",
+    "static/js/2.5765fe9b.chunk.js.map": "/newyear/static/js/2.5765fe9b.chunk.js.map",
+    "index.html": "/newyear/index.html",
+    "precache-manifest.6baa478f09f5274ddb36ba319597b184.js": "/newyear/precache-manifest.6baa478f09f5274ddb36ba319597b184.js",
+    "service-worker.js": "/newyear/service-worker.js",
+    "static/css/main.63ab1672.chunk.css.map": "/newyear/static/css/main.63ab1672.chunk.css.map",
+    "static/js/2.5765fe9b.chunk.js.LICENSE": "/newyear/static/js/2.5765fe9b.chunk.js.LICENSE",
+    "static/media/Button.svg": "/newyear/static/media/Button.3469563f.svg",
+    "static/media/Logo.svg": "/newyear/static/media/Logo.b11d98f5.svg",
+    "static/media/index.css": "/newyear/static/media/fa-regular-400.9efb8697.woff2"
   },
   "entrypoints": [
-    "static/js/runtime-main.1d31dff7.js",
+    "static/js/runtime-main.066d80aa.js",
     "static/js/2.5765fe9b.chunk.js",
-    "static/css/main.2183c070.chunk.css",
+    "static/css/main.63ab1672.chunk.css",
     "static/js/main.05199a35.chunk.js"
   ]
 }
