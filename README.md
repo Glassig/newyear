@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="Logo for 2019" src="https://raw.githubusercontent.com/Glassig/newyear/19d9659cba238a9196dbeea0767d0ebd0d5769ce/src/images/Logo.svg" width="100" />
+  <img alt="Logo for 2019" src="https://raw.githubusercontent.com/Glassig/newyear/master/src/images/Logo.svg" width="100" />
 </p>
 <h1 align="center">
   A new year's memory game
@@ -26,6 +26,14 @@ Some notes:
 [Styling](src\mem-2019.webflow.css): The app was designed in Webflow, so all CSS is generated from there. Maaaaybe you can ask Andreas about getting access to the project in webflow, but it is probably better to just start over yourself or. The generated file can be found in [src\mem-2019.webflow.css](src\mem-2019.webflow.css).
 
 [Logic](src\Card\Card.tsx): Most of the logic for formatting the card, which card should be show etc is is [src\Card\Card.tsx](src\Card\Card.tsx). The basic logic is like this: it saves a list of which cards you have yet not seen, and when it is empty it starts over. Which card is shown is otherwise random. A nice cleanup would be to move the "random"-logic over to App.tsx, but would've could've should've. The project was designed and implemented in just a few short hours before the party started, so best practice wasn't always used.
+
+## Example 2019
+
+For the design in 2019, the theme was "1920's", with black and gold. The "clock" is the card symbol, when it is working, "moment" is emphasized, and "next" is the next card button.
+
+<p align="center">
+  <img alt="Design for 2019" src="https://raw.githubusercontent.com/Glassig/newyear/master/src/images/2019.PNG" width="1000" />
+</p>
 
 ## Documentation
 
