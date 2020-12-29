@@ -1,43 +1,33 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<p align="center">
+  <img alt="Logo for 2019" src="https://raw.githubusercontent.com/Glassig/newyear/19d9659cba238a9196dbeea0767d0ebd0d5769ce/src/images/Logo.svg" width="100" />
+</p>
+<h1 align="center">
+  A new year's memory game
+</h1>
 
-## Available Scripts
+## Made with love by
+Design: [Andreas](https://github.com/decentninja).
 
-In the project directory, you can run:
+Code: [Angelina](https://github.com/Glassig).
 
-### `npm start`
+## Scripts
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+**`npm i`**: Install the app.
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+**`npm start`**: Runs the app in the development mode. Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-### `npm test`
+**`npm run build`**: Builds the app for production to the `build` folder.
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## File structure and code format
+Some notes:
 
-### `npm run build`
+[Cards](src\cards.json): The talking prompts, in the code referred to as "cards", can be found in [src\cards.json](src\cards.json). Every card should have a `text` and `icon`, and inside the text there should be a part surrounded by `|`, which creates an emphasis. The icons are now, mostly broken, so that should be thought over. Not all can be seen.
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+[Styling](src\mem-2019.webflow.css): The app was designed in Webflow, so all CSS is generated from there. Maaaaybe you can ask Andreas about getting access to the project in webflow, but it is probably better to just start over yourself or. The generated file can be found in [src\mem-2019.webflow.css](src\mem-2019.webflow.css).
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+[Logic](src\Card\Card.tsx): Most of the logic for formatting the card, which card should be show etc is is [src\Card\Card.tsx](src\Card\Card.tsx). The basic logic is like this: it saves a list of which cards you have yet not seen, and when it is empty it starts over. Which card is shown is otherwise random. A nice cleanup would be to move the "random"-logic over to App.tsx, but would've could've should've. The project was designed and implemented in just a few short hours before the party started, so best practice wasn't always used.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (Webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
+## Documentation
 
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
