@@ -1,25 +1,25 @@
 {
   "files": {
     "main.css": "/newyear/static/css/main.63ab1672.chunk.css",
-    "main.js": "/newyear/static/js/main.491e3723.chunk.js",
-    "main.js.map": "/newyear/static/js/main.491e3723.chunk.js.map",
+    "main.js": "/newyear/static/js/main.4a09ca0f.chunk.js",
+    "main.js.map": "/newyear/static/js/main.4a09ca0f.chunk.js.map",
     "runtime-main.js": "/newyear/static/js/runtime-main.066d80aa.js",
     "runtime-main.js.map": "/newyear/static/js/runtime-main.066d80aa.js.map",
     "static/js/2.5765fe9b.chunk.js": "/newyear/static/js/2.5765fe9b.chunk.js",
     "static/js/2.5765fe9b.chunk.js.map": "/newyear/static/js/2.5765fe9b.chunk.js.map",
     "index.html": "/newyear/index.html",
-    "precache-manifest.7591d654e0dee4abe79cfc3048917bee.js": "/newyear/precache-manifest.7591d654e0dee4abe79cfc3048917bee.js",
+    "precache-manifest.87299e46d3dcc6d24adf94b05c2dd9ec.js": "/newyear/precache-manifest.87299e46d3dcc6d24adf94b05c2dd9ec.js",
     "service-worker.js": "/newyear/service-worker.js",
     "static/css/main.63ab1672.chunk.css.map": "/newyear/static/css/main.63ab1672.chunk.css.map",
     "static/js/2.5765fe9b.chunk.js.LICENSE": "/newyear/static/js/2.5765fe9b.chunk.js.LICENSE",
     "static/media/Button.svg": "/newyear/static/media/Button.3469563f.svg",
-    "static/media/Logo.svg": "/newyear/static/media/Logo.b11d98f5.svg",
-    "static/media/index.css": "/newyear/static/media/fa-regular-400.9efb8697.woff2"
+    "static/media/index.css": "/newyear/static/media/fa-regular-400.9efb8697.woff2",
+    "static/media/logo2020.svg": "/newyear/static/media/logo2020.7adf157a.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.066d80aa.js",
     "static/js/2.5765fe9b.chunk.js",
     "static/css/main.63ab1672.chunk.css",
-    "static/js/main.491e3723.chunk.js"
+    "static/js/main.4a09ca0f.chunk.js"
   ]
 }
