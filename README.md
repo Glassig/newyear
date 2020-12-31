@@ -1,8 +1,8 @@
 <p align="center">
-  <img alt="Logo for 2019" src="https://raw.githubusercontent.com/Glassig/newyear/master/src/images/Logo.svg" width="100" />
+  <img alt="Logo for 2020" src="https://raw.githubusercontent.com/Glassig/newyear/master/src/images/logo2020.svg" width="100" />
 </p>
 <h1 align="center">
-  A new year's memory game
+  A(n imperfect) new year's memory game
 </h1>
 
 ## Made with love by
