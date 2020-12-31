@@ -1,5 +1,5 @@
 import React, { Fragment, useState } from 'react';
-import Logo from "./images/Logo.svg"
+import Logo from "./images/logo2020.svg"
 import Button from "./images/Button.svg"
 import './App.css';
 import Card from "./Card/Card"
