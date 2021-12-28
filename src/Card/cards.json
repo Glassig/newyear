@@ -2,159 +2,193 @@
     "cards": [
         {
             "text": "Best new years |memory app| of 2021.",
-            "icon": "✺"
+            "icon": "mobile-alt",
+            "type": "fas"
         },
         {
             "text": "Best |conversation| you had this year.",
-            "icon": "🗨"
+            "icon": "comment",
+            "type": "far"
         },
         {
             "text": "Best |piece of advice| you got this year.",
-            "icon": "🗨"
+            "icon": "comment",
+            "type": "far"
         },
         {
             "text": "Best |moment| of the year.",
-            "icon": "❈"
+            "icon": "clock",
+            "type": "far"
         },
         {
             "text": "Hardest you |laughed| this year.",
-            "icon": "🤣"
+            "icon": "grin-squint-tears",
+            "type": "far"
         },
         {
             "text": "Best thing you did |for someone| else this year.",
-            "icon": ""
+            "icon": "heart",
+            "type": "fas"
         },
         {
             "text": "Best |movie| of the year.",
-            "icon": "🎥"
+            "icon": "video",
+            "type": "fas"
         },
         {
             "text": "Best |game| of the year.",
-            "icon": "🎲"
+            "icon": "gamepad",
+            "type": "fas"
         },
         {
             "text": "Favourite |song| of the year.",
-            "icon": "♪"
+            "icon": "music",
+            "type": "fas"
         },
         {
-            "text": "|Day| this past year you'd live over and over.",
-            "icon": ""
+            "text": "A |day| this past year you'd relive over and over.",
+            "icon": "sun",
+            "type": "fas"
         },
         {
             "text": "Biggest |lesson| learned this year.",
-            "icon": "⚛"
-        },
-        {
-            "text": "Most memorable |moment in pop| culture.",
-            "icon": "♪"
-        },
-        {
-            "text": "Best |meme| of the year.",
-            "icon": "🤣"
+            "icon": "graduation-cap",
+            "type": "fas"
         },
         {
             "text": "Most |newsworthy| event of the year.",
-            "icon": ""
-        },
-        {
-            "text": "Most |embarrassing| moment of the year.",
-            "icon": "🤣"
+            "icon": "newspaper",
+            "type": "far"
         },
         {
             "text": "Best piece of |food| you had this year.",
-            "icon": "🍴"
+            "icon": "🍴",
+            "type": "fas"
         },
         {
             "text": "What do you |look forward| to next year?",
-            "icon": "👀"
+            "icon": "👀",
+            "type": "fas"
         },
         {
             "text": "Something you |won't do| next year.",
-            "icon": "🚫"
+            "icon": "🚫",
+            "type": "fas"
         },
         {
             "text": "Best |”Ok boomer”| moment of the year.",
-            "icon": "🤣"
+            "icon": "🤣",
+            "type": "fas"
         },
         {
             "text": "Queue a |song| on spotify.",
-            "icon": "♪"
+            "icon": "♪",
+            "type": "fas"
         },
         {
             "text": "First thing you |will do| next year.",
-            "icon": ""
+            "icon": "",
+            "type": "fas"
         },
         {
             "text": "What is your |plan| for tomorrow?",
-            "icon": "📅"
+            "icon": "📅",
+            "type": "fas"
         },
         {
             "text": "What will be your |first meal| of 2021?",
-            "icon": "🍴"
+            "icon": "🍴",
+            "type": "fas"
         },
         {
             "text": "Your most |terrible| commit message this year.",
-            "icon": "🗨"
+            "icon": "🗨",
+            "type": "fas"
         },
         {
             "text": "What is the |worst| topping on a pizza?",
-            "icon": "🍕"
+            "icon": "pizza-slice",
+            "type": "fas"
         },
         {
             "text": "Which is the |best| sub-reddit?",
-            "icon": "📖"
+            "icon": "📖",
+            "type": "fas"
         },
         {
             "text": "Best |drink| of the evening.",
-            "icon": "🥂"
+            "icon": "🥂",
+            "type": "fas"
         },
         {
             "text": "Best new year's eve |party| of the year.",
-            "icon": "🥂"
+            "icon": "🥂",
+            "type": "fas"
         },
         {
             "text": "Best |dnd| character death of the decade.",
-            "icon": "🎲"
+            "icon": "🎲",
+            "type": "fas"
         },
         {
             "text": "Best |chair| in this room.",
-            "icon": "⑁"
+            "icon": "⑁",
+            "type": "fas"
         },
         {
             "text": "Best |thing| that sparkles.",
-            "icon": "❈"
+            "icon": "❈",
+            "type": "fas"
         },
         {
             "text": "Who |looks| the most comfortable?",
-            "icon": "⑁"
+            "icon": "⑁",
+            "type": "fas"
         },
         {
             "text": "Best |new year's| eve's resolution.",
-            "icon": "🥂"
+            "icon": "🥂",
+            "type": "fas"
         },
         {
             "text": "Most |imperfect| this year.",
-            "icon": "🗑"
+            "icon": "🗑",
+            "type": "fas"
         },
         {
             "text": "Best |TikTok| of the year",
-            "icon": "😂"
+            "icon": "😂",
+            "type": "fas"
         },
         {
             "text": "Best |dnd| class ever",
-            "icon": "♟️"
-        },
-        {
-            "text": "Best |dnd| class ever",
-            "icon": "♟️"
+            "icon": "dice-d20",
+            "type": "fas"
         },
         {
             "text": "Most |playable| non-dnd roleplaying game this year.",
-            "icon": "♕"
+            "icon": "♕",
+            "type": "fas"
         },
         {
             "text": "Best |Cyberpunk bug| of 2077.",
-            "icon": "🐞"
+            "icon": "🐞",
+            "type": "fas"
+        },
+        {
+            "text": "Most memorable |moment in pop| culture.",
+            "icon": "♪",
+            "type": "fas"
+        },
+        {
+            "text": "Best |meme| of the year.",
+            "icon": "🤣",
+            "type": "fas"
+        },
+        {
+            "text": "Most |embarrassing| moment of the year.",
+            "icon": "🤣",
+            "type": "fas"
         }
     ]
 }

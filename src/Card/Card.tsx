@@ -1,10 +1,13 @@
 import React from "react"
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
+import { IconName, IconPrefix } from "@fortawesome/fontawesome-svg-core"
+import cardList from "./cards.json"
+import "./Icons"
 import "./Card.css"
-import cardList from "./../cards.json"
 
 const STORAGENAME = 'cardIndexes'
 
-const getCard = () => {
+const _getCard = () => {
   const indexes = getIndexList()
   const indexInIndexes = Math.floor(Math.random() * indexes.length) // get index for list of indexes
   const index = indexes.splice(indexInIndexes, 1)
@@ -23,19 +26,25 @@ const getIndexList = () => {
   return JSON.parse(indexes)
 }
 
-const heading = (first: string, second: string, last: string) => {
+const Heading = ({ first, second, last }: { first: string, second: string, last: string }): JSX.Element => {
   return <h1 className="heading">{first}<span className="text-span">{second}</span>{last}</h1>
 }
 
+const getCardTest = () => {
+  return cardList.cards[32]
+}
+
 const Card: React.FC = () => {
-  const card = getCard()
+  const card = getCardTest()
   const splitted = card.text.split('|')
-  const icon = card.icon
+  const icon = card.icon as IconName
+  const type = card.type as IconPrefix
+  console.log(icon)
   return (
     <div className="center">
-    <div className="font-awesome-head">{icon}</div>
-    {heading(splitted[0], splitted[1], splitted[2])}
-  </div>
+      <FontAwesomeIcon size={"3x"} icon={[type, icon]} />
+      <Heading first={splitted[0]} second={splitted[1]} last={splitted[2]} />
+    </div>
   )
 }
 

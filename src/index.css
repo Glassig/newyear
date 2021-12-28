@@ -4,3 +4,22 @@
 html {
   height: 100%;
 }
+
+.body {
+  background-image: url("./images/inspo/Mem_bg.png");
+  background-size: cover;
+}
+
+.app, .us-link, .text-span  {
+  color: #141414;
+  border-color: #141414;
+}
+
+.logo {
+  left: 2vh;
+  top: 2vh;
+}
+
+.next-button.submarine {
+  width: 280px;
+}

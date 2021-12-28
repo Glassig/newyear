@@ -1,3 +1,10 @@
+# TODO
+Uppdatera readme för 2020 festen med en bild
+Skapa logga och favicon
+fixa manifest
+fixa index.html
+Public path och flytta bilder
+
 <p align="center">
   <img alt="Logo for 2020" src="https://raw.githubusercontent.com/Glassig/newyear/master/src/images/logo2020.svg" width="100" />
 </p>
@@ -21,9 +28,9 @@ Code: [Angelina](https://github.com/Glassig).
 ## File structure and code format
 Some notes:
 
-[Cards](src\cards.json): The talking prompts, in the code referred to as "cards", can be found in [src\cards.json](src\cards.json). Every card should have a `text` and `icon`, and inside the text there should be a part surrounded by `|`, which creates an emphasis. The icons are now, mostly broken, so that should be thought over. Not all can be seen.
+[Cards](src\Card\cards.json): The talking prompts, in the code referred to as "cards", can be found in [src\cards.json](src\Card\cards.json). Every card should have a `text`, `icon` and `type`, and inside the text there should be a part surrounded by `|`, which creates an emphasis. Icon should be a free favicon name, with the type being either "far" or "fas" for "regular" or "solid". The icon should also be added to [Icons](src\Card\Icons.ts).
 
-[Styling](src\mem-2019.webflow.css): The app was designed in Webflow, so all CSS is generated from there. Maaaaybe you can ask Andreas about getting access to the project in webflow, but it is probably better to just start over yourself or. The generated file can be found in [src\mem-2019.webflow.css](src\mem-2019.webflow.css).
+[Styling](src\mem-2019.webflow.css): The app was designed in Webflow, so all CSS is generated from there. Maaaaybe you can ask Andreas about getting access to the project in webflow, but it is probably better to just start over yourself or the generated file can be found in [src\mem-2019.webflow.css](src\mem-2019.webflow.css).
 
 [Logic](src\Card\Card.tsx): Most of the logic for formatting the card, which card should be show etc is is [src\Card\Card.tsx](src\Card\Card.tsx). The basic logic is like this: it saves a list of which cards you have yet not seen, and when it is empty it starts over. Which card is shown is otherwise random. A nice cleanup would be to move the "random"-logic over to App.tsx, but would've could've should've. The project was designed and implemented in just a few short hours before the party started, so best practice wasn't always used.
 
