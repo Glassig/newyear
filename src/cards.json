@@ -1,7 +1,7 @@
 {
     "cards": [
         {
-            "text": "Best new years |memory app| of 2020.",
+            "text": "Best new years |memory app| of 2021.",
             "icon": "✺"
         },
         {
@@ -26,7 +26,7 @@
         },
         {
             "text": "Best |movie| of the year.",
-            "icon": ""
+            "icon": "🎥"
         },
         {
             "text": "Best |game| of the year.",
@@ -62,15 +62,15 @@
         },
         {
             "text": "Best piece of |food| you had this year.",
-            "icon": ""
+            "icon": "🍴"
         },
         {
             "text": "What do you |look forward| to next year?",
-            "icon": ""
+            "icon": "👀"
         },
         {
             "text": "Something you |won't do| next year.",
-            "icon": ""
+            "icon": "🚫"
         },
         {
             "text": "Best |”Ok boomer”| moment of the year.",
@@ -86,11 +86,11 @@
         },
         {
             "text": "What is your |plan| for tomorrow?",
-            "icon": "🕮"
+            "icon": "📅"
         },
         {
             "text": "What will be your |first meal| of 2021?",
-            "icon": ""
+            "icon": "🍴"
         },
         {
             "text": "Your most |terrible| commit message this year.",
@@ -102,7 +102,7 @@
         },
         {
             "text": "Which is the |best| sub-reddit?",
-            "icon": "🕮"
+            "icon": "📖"
         },
         {
             "text": "Best |drink| of the evening.",
