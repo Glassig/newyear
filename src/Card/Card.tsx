@@ -7,7 +7,7 @@ import "./Card.css"
 
 const STORAGENAME = 'cardIndexes'
 
-const _getCard = () => {
+const getCard = () => {
   const indexes = getIndexList()
   const indexInIndexes = Math.floor(Math.random() * indexes.length) // get index for list of indexes
   const index = indexes.splice(indexInIndexes, 1)
@@ -30,12 +30,8 @@ const Heading = ({ first, second, last }: { first: string, second: string, last:
   return <h1 className="heading">{first}<span className="text-span">{second}</span>{last}</h1>
 }
 
-const getCardTest = () => {
-  return cardList.cards[32]
-}
-
 const Card: React.FC = () => {
-  const card = getCardTest()
+  const card = getCard()
   const splitted = card.text.split('|')
   const icon = card.icon as IconName
   const type = card.type as IconPrefix

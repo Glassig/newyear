@@ -62,47 +62,47 @@
         },
         {
             "text": "Best piece of |food| you had this year.",
-            "icon": "🍴",
+            "icon": "utensils",
             "type": "fas"
         },
         {
             "text": "What do you |look forward| to next year?",
-            "icon": "👀",
+            "icon": "eye",
             "type": "fas"
         },
         {
             "text": "Something you |won't do| next year.",
-            "icon": "🚫",
+            "icon": "thumbs-down",
             "type": "fas"
         },
         {
             "text": "Best |”Ok boomer”| moment of the year.",
-            "icon": "🤣",
+            "icon": "poo",
             "type": "fas"
         },
         {
             "text": "Queue a |song| on spotify.",
-            "icon": "♪",
+            "icon": "music",
             "type": "fas"
         },
         {
             "text": "First thing you |will do| next year.",
-            "icon": "",
+            "icon": "paper-plane",
             "type": "fas"
         },
         {
             "text": "What is your |plan| for tomorrow?",
-            "icon": "📅",
+            "icon": "calendar-alt",
             "type": "fas"
         },
         {
             "text": "What will be your |first meal| of 2021?",
-            "icon": "🍴",
+            "icon": "utensils",
             "type": "fas"
         },
         {
             "text": "Your most |terrible| commit message this year.",
-            "icon": "🗨",
+            "icon": "code-branch",
             "type": "fas"
         },
         {
@@ -112,52 +112,52 @@
         },
         {
             "text": "Which is the |best| sub-reddit?",
-            "icon": "📖",
+            "icon": "book-reader",
             "type": "fas"
         },
         {
             "text": "Best |drink| of the evening.",
-            "icon": "🥂",
+            "icon": "glass-cheers",
             "type": "fas"
         },
         {
             "text": "Best new year's eve |party| of the year.",
-            "icon": "🥂",
+            "icon": "glass-cheers",
             "type": "fas"
         },
         {
             "text": "Best |dnd| character death of the decade.",
-            "icon": "🎲",
+            "icon": "dice-d20",
             "type": "fas"
         },
         {
             "text": "Best |chair| in this room.",
-            "icon": "⑁",
+            "icon": "chair",
             "type": "fas"
         },
         {
             "text": "Best |thing| that sparkles.",
-            "icon": "❈",
+            "icon": "hand-sparkles",
             "type": "fas"
         },
         {
             "text": "Who |looks| the most comfortable?",
-            "icon": "⑁",
+            "icon": "chair",
             "type": "fas"
         },
         {
             "text": "Best |new year's| eve's resolution.",
-            "icon": "🥂",
+            "icon": "glass-cheers",
             "type": "fas"
         },
         {
-            "text": "Most |imperfect| this year.",
-            "icon": "🗑",
+            "text": "Vad |trycker| du om temat?",
+            "icon": "compress-arrows-alt",
             "type": "fas"
         },
         {
             "text": "Best |TikTok| of the year",
-            "icon": "😂",
+            "icon": "music",
             "type": "fas"
         },
         {
@@ -167,27 +167,22 @@
         },
         {
             "text": "Most |playable| non-dnd roleplaying game this year.",
-            "icon": "♕",
-            "type": "fas"
-        },
-        {
-            "text": "Best |Cyberpunk bug| of 2077.",
-            "icon": "🐞",
+            "icon": "trophy",
             "type": "fas"
         },
         {
             "text": "Most memorable |moment in pop| culture.",
-            "icon": "♪",
+            "icon": "microphone",
             "type": "fas"
         },
         {
             "text": "Best |meme| of the year.",
-            "icon": "🤣",
-            "type": "fas"
+            "icon": "grin-squint-tears",
+            "type": "far"
         },
         {
             "text": "Most |embarrassing| moment of the year.",
-            "icon": "🤣",
+            "icon": "flushed",
             "type": "fas"
         }
     ]
