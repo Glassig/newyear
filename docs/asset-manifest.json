@@ -1,16 +1,17 @@
 {
   "files": {
-    "main.css": "/newyear/static/css/main.cbe8ea75.css",
-    "main.js": "/newyear/static/js/main.13633e3e.js",
+    "main.css": "/newyear/static/css/main.43170fe4.css",
+    "main.js": "/newyear/static/js/main.f7839191.js",
+    "static/media/Mem_bg.png": "/newyear/static/media/Mem_bg.82af1503cecf04fab681.png",
+    "static/media/Mem-boat-anim.png": "/newyear/static/media/Mem-boat-anim.719ee7b6b0410857d3e1.png",
     "static/media/fa-regular-400.woff2": "/newyear/static/media/fa-regular-400.a28b95d3e799579ba1dd.woff2",
-    "static/media/logo2020.svg": "/newyear/static/media/logo2020.e934fffdb96127ffa832c2684d4d50a9.svg",
-    "static/media/Button.svg": "/newyear/static/media/Button.25798ba5f76d991286e1dcdef55e6ca1.svg",
+    "static/media/logo2021.svg": "/newyear/static/media/logo2021.55bf09ec1a1f51843275eb0d209b0800.svg",
     "index.html": "/newyear/index.html",
-    "main.cbe8ea75.css.map": "/newyear/static/css/main.cbe8ea75.css.map",
-    "main.13633e3e.js.map": "/newyear/static/js/main.13633e3e.js.map"
+    "main.43170fe4.css.map": "/newyear/static/css/main.43170fe4.css.map",
+    "main.f7839191.js.map": "/newyear/static/js/main.f7839191.js.map"
   },
   "entrypoints": [
-    "static/css/main.cbe8ea75.css",
-    "static/js/main.13633e3e.js"
+    "static/css/main.43170fe4.css",
+    "static/js/main.f7839191.js"
   ]
 }
