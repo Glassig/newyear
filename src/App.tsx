@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
-import Logo from "./images/logo2020.svg"
-import Submarine from "./images/inspo/Mem_boat_cropped.png"
+import Logo from "./images/logo2021.svg"
+import Submarine from "./images/Mem-boat-anim.png"
 import Card from "./Card/Card"
 import './App.css';
 
@@ -11,8 +11,9 @@ const App: React.FC = () => {
     <>
       <img src={Logo} alt="" className="logo" />
       <Card key={fooKey} />
-      <button onClick={refreshFoo} className="link-block w-inline-block">
+      <button onClick={refreshFoo} className="link-block w-inline-block" style={{ position: "relative" }}>
         <img src={Submarine} alt="Button to load the next prompt" className="next-button submarine" />
+        <div className="next" >Next</div>
       </button>
       <p className="paragraph">
         Made with love by<br />

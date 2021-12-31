@@ -76,11 +76,6 @@
             "type": "fas"
         },
         {
-            "text": "Best |”Ok boomer”| moment of the year.",
-            "icon": "poo",
-            "type": "fas"
-        },
-        {
             "text": "Queue a |song| on spotify.",
             "icon": "music",
             "type": "fas"
@@ -116,18 +111,8 @@
             "type": "fas"
         },
         {
-            "text": "Best |drink| of the evening.",
-            "icon": "glass-cheers",
-            "type": "fas"
-        },
-        {
             "text": "Best new year's eve |party| of the year.",
             "icon": "glass-cheers",
-            "type": "fas"
-        },
-        {
-            "text": "Best |dnd| character death of the decade.",
-            "icon": "dice-d20",
             "type": "fas"
         },
         {
@@ -161,11 +146,6 @@
             "type": "fas"
         },
         {
-            "text": "Best |dnd| class ever",
-            "icon": "dice-d20",
-            "type": "fas"
-        },
-        {
             "text": "Most |playable| non-dnd roleplaying game this year.",
             "icon": "trophy",
             "type": "fas"
@@ -183,6 +163,62 @@
         {
             "text": "Most |embarrassing| moment of the year.",
             "icon": "flushed",
+            "type": "fas"
+        }, {
+            "text": "Teach Andreas your best |dad| joke.",
+            "icon": "meh-rolling-eyes",
+            "type": "far"
+        }, {
+            "text": "Which c***d variant do you think will |win|?",
+            "icon": "virus",
+            "type": "fas"
+        }, {
+            "text": "Most |heartbreaking| death in squid game?",
+            "icon": "heart-broken",
+            "type": "fas"
+        }, {
+            "text": "Best |series| of the year",
+            "icon": "tv",
+            "type": "fas"
+        }, {
+            "text": "My future |travel| plans/dreams.",
+            "icon": "paper-plane",
+            "type": "fas"
+        }, {
+            "text": "My best |WFH-work-station| tip.",
+            "icon": "briefcase",
+            "type": "fas"
+        }, {
+            "text": "First |concert/public event| I dream of attending.",
+            "icon": "music",
+            "type": "fas"
+        }, {
+            "text": "Favourite |cookie and drink| combo.",
+            "icon": "cookie",
+            "type": "fas"
+        }, {
+            "text": "Favourite |date| idea.",
+            "icon": "heart",
+            "type": "fas"
+        }, {
+            "text": "Best |side effect| of these new times.",
+            "icon": "thumbs-up",
+            "type": "fas"
+        }, {
+            "text": "Best recent |purchase|.",
+            "icon": "dollar-sign",
+            "type": "fas"
+        }, {
+            "text": "My latest |trip|.",
+            "icon": "paper-plane",
+            "type": "fas"
+        }, {
+            "text": "My |stay at home| hobby.",
+            "icon": "home",
+            "type": "fas"
+        }, {
+            "text": "Best |day after| food.",
+            "icon": "utensils",
             "type": "fas"
         }
     ]

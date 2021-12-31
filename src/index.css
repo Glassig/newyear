@@ -10,16 +10,30 @@ html {
   background-size: cover;
 }
 
-.app, .us-link, .text-span  {
+.app, .text-span  {
   color: #141414;
   border-color: #141414;
 }
 
+.paragraph {
+  color: white;
+}
+
 .logo {
   left: 2vh;
-  top: 2vh;
+  top: 3vh;
 }
 
 .next-button.submarine {
   width: 280px;
+}
+
+.next {
+  position: absolute;
+   top: 18%; 
+   left: 59%;
+   color: #c5a652;
+   font-size: 2rem;
+   font-family: 'Poiret One', sans-serif;
+   font-weight: bold;
 }

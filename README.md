@@ -1,15 +1,13 @@
 # TODO
 Uppdatera readme för 2020 festen med en bild
-Skapa logga och favicon
 fixa manifest
 fixa index.html
-Public path och flytta bilder
 
 <p align="center">
-  <img alt="Logo for 2020" src="https://raw.githubusercontent.com/Glassig/newyear/master/src/images/logo2020.svg" width="100" />
+  <img alt="Logo for 2021" src="https://raw.githubusercontent.com/Glassig/newyear/master/src/images/logo2021.svg" width="100" />
 </p>
 <h1 align="center">
-  A(n imperfect) new year's memory game
+  A pressured new year's memory game
 </h1>
 
 ## Made with love by
