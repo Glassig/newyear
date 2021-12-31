@@ -1,8 +1,3 @@
-# TODO
-Uppdatera readme för 2020 festen med en bild
-fixa manifest
-fixa index.html
-
 <p align="center">
   <img alt="Logo for 2021" src="https://raw.githubusercontent.com/Glassig/newyear/master/src/images/logo2021.svg" width="100" />
 </p>
@@ -13,7 +8,7 @@ fixa index.html
 ## Made with love by
 Design: [Andreas](https://github.com/decentninja).
 
-Code: [Angelina](https://github.com/Glassig).
+Code and Design: [Angelina](https://github.com/Glassig).
 
 ## Scripts
 
